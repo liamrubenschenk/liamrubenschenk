@@ -1,7 +1,3 @@
-### Hi, I'm Liam 👋
+### Hi, I'm Liam! 👋
 
-Trained mediamatician with a qualification from Swisscom.
-
-- 🏢 Currently working as a mediamatician at the **Swiss Gymnastics Federation**
-- 🎨 Focus on **print design**
-- 🤝 Structured, team-oriented, always learning something new
+I currently work as a Mediamatics Technician at Swiss Gymnastics. I independently design print and digital media, coordinate print jobs, and ensure a consistent brand presence for the federation, both internally and externally. Outside of work, I read a lot, collect music, and enjoy listening to audio dramas.
